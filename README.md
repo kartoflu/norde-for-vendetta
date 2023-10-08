@@ -1,4 +1,4 @@
-![title-preview](h)
+![title-preview](previews/title.png)
 
 #### Note: This is the Vendetta version of this theme. For Aliucord, check this one instead.
 
@@ -24,6 +24,4 @@ This is an experimental redesign Discord has been working on recently and can on
 Discord should restart afterward and you will be greeted by the brand new, redesigned UI!
 
 ## Previews
-![norde-preview](h)
-
-<!-- og aliucord nord https://discord.com/channels/811255666990907402/824357609778708580/865677697693515786 -->
+![norde-preview](previews/norde-preview.png)
